@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\bin\Debug\net9.0\Revisao.exe
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\bin\Debug\net9.0\Revisao.deps.json
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\bin\Debug\net9.0\Revisao.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\bin\Debug\net9.0\Revisao.dll
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\bin\Debug\net9.0\Revisao.pdb
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\obj\Debug\net9.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\obj\Debug\net9.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\obj\Debug\net9.0\Revisao.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\obj\Debug\net9.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\obj\Debug\net9.0\Revisao.dll
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\obj\Debug\net9.0\refint\Revisao.dll
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\obj\Debug\net9.0\Revisao.pdb
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\obj\Debug\net9.0\Revisao.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\A_Estudos\A_EtecFatec\5º ADS Fatec\ModPadProj\Atividades\Revisao\Revisao\obj\Debug\net9.0\ref\Revisao.dll
